@@ -21,3 +21,10 @@ body {
     width: 200px;
     
 }
+nav {
+    float: left;
+     
+    padding: 12px;
+    height: 500px;
+    width: 20%;
+}
