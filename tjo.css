@@ -36,3 +36,17 @@ nav ul li {
             margin: 0;
             padding: 10px 0;
         }
+    nav ul li:hover {
+        background: #03ADDF;
+    }
+
+    nav ul li a {
+        color: #fff;
+        text-decoration: none;
+        padding: 12px;
+    }
+
+        nav ul li a:hover {
+            color: #fff;
+            text-decoration: none;
+        }
