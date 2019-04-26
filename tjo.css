@@ -1,7 +1,7 @@
 h1 {
     color: floralwhite;
     font-style: oblique;
-    font-size: 90px;
+    font-size: 80px;
     font-family: Arial, Helvetica, sans-serif;
     
 }
@@ -22,7 +22,7 @@ body {
     
 }
 nav {
-    background: #444;
+   
     width: 100%;
 }
 
@@ -34,7 +34,7 @@ nav {
             display: inline-block;
             list-style-type: none;
             margin: 0;
-            padding: 10px 0;
+            padding: 20px 0;
             font-family: Arial, Helvetica, sans-serif;
             color: floralwhite;
             font-style: oblique;
@@ -46,7 +46,7 @@ nav {
             nav ul li a {
                 color: #fff;
                 text-decoration: none;
-                padding: 12px;
+                padding: 40px;
                 font-family: Arial, Helvetica, sans-serif;
                 color: floralwhite;
                 font-style: oblique;
