@@ -36,9 +36,9 @@ nav {
             list-style-type: none;
             margin: 0;
             padding:20px 0;
-            font-family: Arial, Helvetica, sans-serif;
+             font-family: 'Josefin Sans', sans-serif;
             color: floralwhite;
-            font-style: oblique;
+            font-style: Normal;
         }
     nav ul li:hover {
         background: #03ADDF;
@@ -48,15 +48,15 @@ nav {
                 color: #fff;
                 text-decoration: none;
                 padding: 130px;
-                font-family: Arial, Helvetica, sans-serif;
+                font-family: 'Josefin Sans', sans-serif;
                 color: floralwhite;
-                font-style: oblique;
+                font-style: normal;
             }
 
                 nav ul li a:hover {
                     color: #fff;
                     text-decoration: none;
-                    font-family: Arial, Helvetica, sans-serif;
+                    font-family: 'Josefin Sans', sans-serif;
                     color: floralwhite;
-                    font-style: oblique;
+                    font-style: normal;
                 }
