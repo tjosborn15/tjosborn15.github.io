@@ -111,11 +111,12 @@ nav {
     width: 75%;
 }
 #LI {
-        font-family: 'Josefin Sans', sans-serif;
+    font-family: 'Josefin Sans', sans-serif;
     color: floralwhite;
     font-style: Normal;
     text-align: center;
     font-size: 40px;
     font-weight: bold;
-    text-decoration:none;
+    text-decoration: none;
+    list-style-type: none;
 }
