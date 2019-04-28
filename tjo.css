@@ -78,5 +78,6 @@ nav {
     border-color: floralwhite;
     border: 5px solid #ddd;
     background-color: rgba(0,0,0,.5);
-    width:75%;
+    width: 75%;
+    display: inline-block;
 }
