@@ -88,3 +88,14 @@ nav {
     margin-right: auto;
     width: 75%;
 }
+#projectsdiv {
+    font-family: 'Josefin Sans', sans-serif;
+    color: floralwhite;
+    font-style: Normal;
+    text-align: center;
+    font-size: 40px;
+    border-color: floralwhite;
+    border: 5px solid #ddd;
+    background-color: rgba(0,0,0,.5);
+    width: 75%;
+}
