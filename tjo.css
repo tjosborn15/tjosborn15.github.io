@@ -120,9 +120,8 @@ nav {
     text-decoration: none;
     height: 42px;
     width: 260px;
-     
-    margin-left: 20px;
-    margin-right: 20px;
+    margin-left: auto;
+    margin-right: auto;
     border-color: floralwhite;
     border: 5px solid #ddd;
     background-color: darkslateblue;
