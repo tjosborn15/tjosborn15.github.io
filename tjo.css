@@ -119,9 +119,11 @@ nav {
     font-weight: bold;
     text-decoration: none;
     list-style-type: none;
-    margin:42px 42px 42px 42px;
-   
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-color: floralwhite;
+    border: 5px solid #ddd;
     background-color: darkslateblue;
-    
 }
 
