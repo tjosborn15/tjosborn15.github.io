@@ -53,9 +53,10 @@ li {
         font-size: 22px;
     }
 
-        /* Change the link color to #111 (black) on hover */
+  
         li a:hover {
            color: Highlight;
+           font-weight:bold;
         }
 .pic2 {
     height:60px;
