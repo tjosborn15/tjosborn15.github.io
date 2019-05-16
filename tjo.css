@@ -29,42 +29,30 @@ nav {
     width:100%;
 }
 
-    nav ul {
-        padding: 0;
-        margin: 0;
-        
-        
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+
+li {
+    float: left;
+}
+
+    li a {
+        display: block;
+        color: white;
+        text-align: center;
+        padding: 14px 16px;
+        text-decoration: none;
     }
-        nav ul li {
-            display: inline-block;
-            list-style-type: none;
-            
-            padding:10px;
-            width:25%;
-             font-family: 'Josefin Sans', sans-serif;
-            color: floralwhite;
-            font-style: Normal;
+
+        /* Change the link color to #111 (black) on hover */
+        li a:hover {
+            background-color: #111;
         }
-    nav ul li:hover {
-        background: #03ADDF;
-    }
-
-            nav ul li a {
-                color: #fff;
-                text-decoration: none;
-              width:100%;
-                font-family: 'Josefin Sans', sans-serif;
-                color: floralwhite;
-                font-style: normal;
-            }
-
-                nav ul li a:hover {
-                    color: #fff;
-                    text-decoration: none;
-                    font-family: 'Josefin Sans', sans-serif;
-                    color: floralwhite;
-                    font-style: normal;
-                }
 .pic2 {
     height:60px;
     width:60px;
