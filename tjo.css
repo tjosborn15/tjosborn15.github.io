@@ -78,8 +78,7 @@ li {
     border: 5px solid #ddd;
     background-color: rgba(0,0,0,.5);
     width: 75%;
-    
-    
+    margin-top: 15px;
 }
 .center2 {
     display: block;
@@ -97,6 +96,7 @@ li {
     border: 5px solid #ddd;
     background-color: rgba(0,0,0,.5);
     width: 75%;
+    margin-top: 15px;
 }
 #skillsdiv {
     font-family: 'Josefin Sans', sans-serif;
@@ -108,6 +108,7 @@ li {
     border: 5px solid #ddd;
     background-color: rgba(0,0,0,.5);
     width: 75%;
+    margin-top:15px;
 }
 #LI {
     font-family: 'Josefin Sans', sans-serif;
