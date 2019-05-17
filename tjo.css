@@ -4,7 +4,7 @@ h1 {
     font-style: normal;
     font-size: 80px;
     font-family: 'Josefin Sans', sans-serif;
-    margin: 2px 2px 2px 2px;
+    margin: 0px 0px 0px 0px;
     padding:3px 3px 3px 3px;
     background-color: rgba(0,0,0,.75);
 }
@@ -38,7 +38,7 @@ ul {
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: rgba(0,0,0,.25);
+    background-color: rgba(0,0,0,.40);
     font-family: 'Josefin Sans', sans-serif;
     font-size: 22px;
 }
@@ -51,16 +51,17 @@ li {
         display: block;
         color: white;
         text-align: center;
-        padding: 20px 40px;
+        padding: 15px 40px;
         text-decoration: none;
         font-family: 'Josefin Sans', sans-serif;
         font-size: 22px;
     }
 
-  
+
         li a:hover {
-           color: Highlight;
-           font-weight:800;
+            color: Highlight;
+            font-weight: 800;
+            background-color: rgba(0,0,0,.75);
         }
 .pic2 {
     height:60px;
