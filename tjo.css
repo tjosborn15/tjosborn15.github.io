@@ -15,14 +15,14 @@ img {
    
     border-color:darkslategray;
     padding: 5px;
-    width: 250px;
+    width: 200px;
     margin: 10px 10px 10px 10px;
 }
 body {
     background-color: white;
     background-size: cover;
     image-rendering: -moz-crisp-edges;
-    background-image: url("https://backiee.com/static/wpdb/wallpapers/3840x2160/203461.jpg");
+    background-image: url("https://images.wallpaperscraft.com/image/fern_leaves_green_134531_3840x2400.jpg");
 }
 
 .center {
