@@ -1,6 +1,6 @@
 
 h1 {
-    color: navy;
+    color: white;
     font-style: normal;
     font-weight:200;
     font-size: 70px;
@@ -19,9 +19,10 @@ img {
     margin: 10px 10px 10px 10px;
 }
 body {
-    background-color:white;
+    background-color: white;
     background-size: cover;
     image-rendering: -moz-crisp-edges;
+    background-image: url("https://backiee.com/static/wpdb/wallpapers/3840x2160/203461.jpg");
 }
 
 .center {
@@ -52,7 +53,7 @@ li {
 
     li a {
         display: block;
-        color: maroon;
+        color: white;
         text-align: center;
         padding: 15px 40px;
         text-decoration: none;
@@ -62,7 +63,7 @@ li {
 
 
         li a:hover {
-            color: Highlight;
+            color: lime;
             font-weight: 800;
             /*background-color: rgba(0,0,0,.75);*/
         }
