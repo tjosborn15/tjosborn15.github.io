@@ -1,23 +1,23 @@
 
 h1 {
-    color: floralwhite;
+    color: Highlight;
     font-style: normal;
     font-size: 80px;
     font-family: 'Josefin Sans', sans-serif;
     margin: 0px 0px 0px 0px;
     padding:3px 3px 3px 3px;
-    background-color: rgba(0,0,0,.75);
+     
 }
 img {
     border: 5px solid #ddd;
-    border-radius: 70%;
+   
     border-color:darkslategray;
     padding: 5px;
     width: 250px;
     margin: 10px 10px 10px 10px;
 }
 body {
-    background-color:antiquewhite;
+    background-color:whitesmoke;
     background-size: cover;
     image-rendering: -moz-crisp-edges;
 }
