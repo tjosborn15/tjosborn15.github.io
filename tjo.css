@@ -22,8 +22,8 @@ html {
     background-repeat: no-repeat;
     background-position: center;
     background-attachment: fixed;
-    background-size: auto;
-    background-image: url("https://images.pexels.com/photos/164357/pexels-photo-164357.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=9400");
+    background-size: cover;
+    background-image: url("https://images.pexels.com/photos/2351399/pexels-photo-2351399.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940");
 }
 
 
