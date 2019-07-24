@@ -18,12 +18,16 @@ img {
     width: 200px;
     margin: 10px 10px 10px 10px;
 }
-body {
-    background-color: white;
+html {
+    no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
     background-size: cover;
-    image-rendering: -moz-crisp-edges;
     background-image: url("https://images.pexels.com/photos/1417647/pexels-photo-1417647.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940");
 }
+
+
 
 .center {
     display: block;
