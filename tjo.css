@@ -42,12 +42,13 @@ nav {
 
 ul {
     list-style-type: none;
-    margin: 20px;
+    margin: 15px;
     padding: 0;
     overflow: hidden;
     /*background-color: rgba(0,0,0,.40);*/
     font-family: 'Josefin Sans', sans-serif;
     font-size: 22px;
+	align: center;
 }
 
 li {
