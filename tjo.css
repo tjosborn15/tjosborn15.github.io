@@ -2,25 +2,16 @@
 h1 {
     color: blue;
 font-family: 'Josefin Sans', sans-serif;
-    color: floralwhite;
+    color: black;
     font-style: Normal;
     text-align: center;
     margin: 0px 0px 0px 0px;
-    padding:3px 3px 3px 3px;
+    padding:0px 0px 0px 0px;
      
 }
-img {
-    border: 5px solid #ddd;
-   
-    border-color:darkslategray;
-    padding: 5px;
-    width: 200px;
-    margin: 10px 10px 10px 10px;
-}
+
 html {
     background-color: blue;
-
-
 
 .center {
     display: block;
