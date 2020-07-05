@@ -38,6 +38,7 @@ html {
 nav {
    
     width:109%;
+	float: center;
 }
 
 ul {
@@ -52,7 +53,7 @@ ul {
 }
 
 li {
-    align:center;
+    float:center;
 }
 
     li a {
