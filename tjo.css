@@ -1,12 +1,10 @@
 
 h1 {
     color: blue;
-    font-style: normal;
-    font-weight:20px;
-    font-size: 70px;
-    width: 100%
- 
-	font-family: 'Josefin Sans', sans-serif;
+font-family: 'Josefin Sans', sans-serif;
+    color: floralwhite;
+    font-style: Normal;
+    text-align: center;
     margin: 0px 0px 0px 0px;
     padding:3px 3px 3px 3px;
      
@@ -33,8 +31,7 @@ html {
 }
 nav {
    
-    width:109%;
-	align: center;
+  
 }
 
 ul {
