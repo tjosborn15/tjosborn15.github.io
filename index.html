@@ -57,33 +57,18 @@
   </div>
 </nav>
    
-   <header>
-  <div class="overlay"></div>
-  <video playsinline="playsinline" autoplay="autoplay" muted="muted" loop="loop">
-    <source src="https://storage.googleapis.com/coverr-main/mp4/Mt_Baker.mp4" type="video/mp4">
-  </video>
-  <div class="container h-100">
-    <div class="d-flex h-100 text-center align-items-center">
-      <div class="w-100 text-white">
-        <h1 class="display-3"></h1>
-        <p class="lead mb-0">With HTML5 Video and Bootstrap 4</p>
-      </div>
-    </div>
-  </div>
-</header>
+<!-- The video -->
+<video autoplay muted loop id="myVideo">
+  <source src="https://source.unsplash.com/XT5OInaElMw/1600x900" type="video/mp4">
+</video>
 
-<section class="my-5">
-  <div class="container">
-    <div class="row">
-      <div class="col-md-8 mx-auto">
-      </p>
-        <p class="mb-0">
-          </a>
-        </p>
-      </div>
-    </div>
-  </div>
-</section>
+<!-- Optional: some overlay text to describe the video -->
+<div class="content">
+  <h1>Heading</h1>
+  <p>Lorem ipsum...</p>
+  <!-- Use a button to pause/play the video with JavaScript -->
+  <button id="myBtn" onclick="myFunction()">Pause</button>
+</div>
 
     <!-- Optional JavaScript -->
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->
