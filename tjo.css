@@ -124,4 +124,6 @@ li {
     padding:5px;
     margin-top:70px;
 }
-
+navbar navbar-expand-lg navbar-light bg-light{
+background-color:black;
+}
